@@ -1,0 +1,17 @@
+C:\Users\nguye\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\nguye\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.pdb
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\bin\Debug\Client.exe
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\bin\Debug\Client.pdb
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.Form1.resources
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.exe
+E:\Code Life\UIT\CSDLPT\Sendfile TCP-IP\Client\Client\obj\Debug\Client.pdb
